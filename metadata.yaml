@@ -1,0 +1,36 @@
+_repo: Horace-Walpole-A-memoir-With-an-appendix-of-books-printed-at-the-Strawberry-Hill-Press_53649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
+description: ''
+gutenberg_issued: '2016-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- George III, 1760-1820 -- Biography'
+- !lcsh 'Nobility -- Great Britain -- Biography'
+- !lcsh 'Walpole, Horace, 1717-1797'
+- !lcsh 'Great Britain -- History -- George II, 1727-1760 -- Biography'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Social life and customs -- 18th century'
+- !lcsh 'Art -- Collectors and collecting -- Great Britain -- Biography'
+- !lcsh 'Twickenham (London, England) -- Imprints'
+- !lcsh 'Strawberry Hill Press (Twickenham, London, England)'
+- !lcsh 'Legislators -- Great Britain -- Biography'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- GITenberg
+title: "Horace Walpole: A memoir\r\nWith an appendix of books printed at the Strawberry\
+  \ Hill Press"
+url: http://www.gutenberg.org/ebooks/53649
