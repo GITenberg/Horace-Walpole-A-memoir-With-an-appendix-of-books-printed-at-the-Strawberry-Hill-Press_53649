@@ -1,5 +1,8 @@
 _repo: Horace-Walpole-A-memoir-With-an-appendix-of-books-printed-at-the-Strawberry-Hill-Press_53649
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53649-h/images/cover.jpg
 creator:
   author:
     agent_name: Dobson, Austin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2155
     wikipedia: http://en.wikipedia.org/wiki/Henry_Austin_Dobson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53649#Horace-Walpole-A-memoir-With-an-appendix-of-books-printed-at-the-Strawberry-Hill-Press
 gutenberg_issued: '2016-12-02'
 gutenberg_type: Text
 identifiers:
